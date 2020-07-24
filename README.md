@@ -1,4 +1,4 @@
 # k_vs_l
-Checking effiency between linear and quadratic probing.
+Checking effiencе between linear and quadratic probing.
 Реализация хэш-таблицы для хранения частоты появления слов в тексте и проверка,какой из способов разрешения коллизий в данном случае будет эффективнее.
 Как "неожиданно" оказалось - квадратичный способ намного лучше на длинной дистанции.
